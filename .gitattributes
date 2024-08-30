@@ -1,1 +1,4 @@
 *.rds filter=lfs diff=lfs merge=lfs -text
+Data_sample_ass2.rds filter=lfs diff=lfs merge=lfs -text
+git filter=lfs diff=lfs merge=lfs -text
+add filter=lfs diff=lfs merge=lfs -text
